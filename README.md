@@ -7,6 +7,8 @@ This is Ruby application that can perform basic arithmatic operations such as ad
  <li>Navigate to the project directory in your terminal</li>
  <li>Run the application using the following command:</li>
 </ol>
-```ruby
-ruby calculator.rb```
+
+```
+ruby calculator.rb
+```
 
