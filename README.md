@@ -8,5 +8,5 @@ This is Ruby application that can perform basic arithmatic operations such as ad
  <li>Run the application using the following command:</li>
 </ol>
 <p>```ruby
-ruby calculator.rb
+ruby calculator.rb```
 </p>
